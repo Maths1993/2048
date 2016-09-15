@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="background">#3500ffff</color>
+    <color name="puzzle_background">#ffe6f0ff</color>
+    <color name="puzzle_hilite">#ffffffff</color>
+    <color name="puzzle_light">#64c6d4ef</color>
+    <color name="puzzle_dark">#6456648f</color>
+    <color name="puzzle_foreground">#ff000000</color>
+    <color name="puzzle_hint_0">#64ff0000</color>
+    <color name="puzzle_hint_1">#6400ff80</color>
+    <color name="puzzle_hint_2">#2000ff80</color>
+    <color name="puzzle_selected">#64ff8000</color>
+
+    <color name="grid_background">#6456648f</color>
+    <color name="grid_lines">#ff000000</color>
+    <color name="grid_numbers">#ff000000</color>
+    <color name="grid_message">#ff000000</color>
+
+    <color name="grid_32">#3500ffff</color>
+    <color name="grid_64">#ff000000</color>
+    <color name="grid_16">#6456648f</color>
+    <color name="grid_8">#FF4081</color>
+    <color name="grid_4">#64ff0000</color>
+    <color name="grid_2">#64ff8000</color>
+    <color name="grid_128">#000000</color>
+    <color name="grid_256">#64244ecf</color>
+    <color name="grid_512">#9e8d93</color>
+    <color name="grid_1024">#c2ffea00</color>
+    <color name="grid_2048">#6400ffe1</color>
+    <color name="grid_4096">#64a908a1</color>
+</resources>
